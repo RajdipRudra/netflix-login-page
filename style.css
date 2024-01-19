@@ -1,0 +1,95 @@
+*{
+    outline: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+    /* background-color: rgba(0, 0, 0, 0.568); */
+    background: url(media/108069438-5ee79d80-7089-11eb-8264-08fdda7e0d11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+body>header{
+    background-color: rgba(0, 0, 0, 0.808);
+    
+}
+#header{
+    height: 100px;
+    width: 200px;
+}
+
+input,input.placeholder,input.textarea{
+    color: white;
+    background-color: #333333;
+    font-weight: bold;
+    font-size: medium;
+    text-align:center;
+    border-radius: 5px;
+    height: 50px;
+    width: 312px;
+}
+li{
+    padding: 30px;
+}
+
+.SignBox{
+    top: 50%;
+    text-align: center;
+    border-radius: 10px;
+    font-size: large;
+    height: 660px;
+    width: 448px;
+    margin: 127px auto 50%;
+    padding: 35px;
+    background-color: rgba(0, 0, 0, 0.808);
+    
+}
+fieldset{
+    font-size:xx-large;
+    font-weight: bold;
+    border: none;
+}
+/* legend{
+    display: none;
+} */
+#SigninButton{
+    outline: red;
+    background-color: red;
+    text-align: center;
+    font-size:medium;
+    color: white;
+}
+.emailandpass{
+padding: 25;
+}
+
+.background{
+    background-color: rgba(0, 0, 0, 0.514);
+    background-size: cover;
+    width: 1820px;
+    height: 1088px;
+}
+
+.textofcheckbox,input.checkbox,input.rem{
+    height: 15px;
+    width: 15px;
+    padding: 4px;
+    font-size: small;
+    font-weight: 400;
+}
+.texttt{
+    text-align: left;
+    font-size: medium;
+    color: #575555;
+}
+.texttt>a{
+    text-align: left;
+    text-decoration: none;
+    font-size: medium;
+    color: #fcf8f8;
+}
+
+
